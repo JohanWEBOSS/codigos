@@ -1,0 +1,268 @@
+PS C:\Users\P C\Desktop\JOHAN UNI\Scraping.1>  c:; cd 'c:\Users\P C\Desktop\JOHAN UNI\Scraping.1'; & 'c:\Users\P C\Desktop\JOHAN UNI\Scraping.1\env\Scripts\python.exe' 'c:\Users\P C\.vscode\extensions\ms-python.debugpy-2024.2.0-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '51505' '--' 'C:\Users\P C\Desktop\JOHAN UNI\Scraping.1\extraer.py'
+<!DOCTYPE html>
+<html lang="es">
+ <head>
+  <!--[if gt IE 9]><!-->
+  <script>
+   //common/scripts.isml
+  </script>
+  <script defer="" src="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/js/main.js">
+  </script>
+  <script defer="" src="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/js/experienceGlobal.js">   
+  </script>
+  <script defer="" src="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/js/experienceCarousels.js">
+  </script>
+  <!--<![endif]-->
+  <title>
+   Soriana: Tu Supermercado a domicilio y más
+  </title>
+  <meta content="ie=edge" http-equiv="x-ua-compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="¡Apodérate de los grandes descuentos que Soriana tiene para ti! Con nosotros podrás surtir tu carrito con todo lo que necesitas. ¡Solicita tu pedido ya!" name="description"/>
+  <meta content="Soriana El Súper En Tu Casa | Compra en línea" name="keywords"/>
+  <meta content="Soriana" property="og:site_name"/>
+  <meta content="Soriana Tu Súper y Mucho Más | Compra en línea" property="og:title"/>
+  <meta content="En Soriana haz El Súper en Tu Casa, encuentra lo mejor para tu despensa, electrónica, hogar, línea blanca, salud y belleza y más. ¡Hacemos envíos a todo México! " property="og:description"/>
+  <meta content="https://www.soriana.com/" property="og:url"/>
+  <meta content="https://production-na01-soriana.demandware.net/on/demandware.static/-/Library-Sites-SorianaSharedLib/default/vd5582e0b9b26381e4a820ecea44ce9a3216d6008/images/opengraph-soriana.png" property="og:image"/>
+  <meta content="Soriana Logo" property="og:image:alt"/>
+  <meta content="website" property="og:type"/>
+  <meta content="mx" property="og:locale"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/dw624c3505/images/favicon/favicon.ico" rel="shortcut icon" type="image/x-icon"/>   
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/dwd16c903d/images/favicon/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/dwbd244080/images/favicon/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/dw489aa2a3/images/favicon/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/dw507a90b9/images/favicon/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/dw01cfb255/images/favicon/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/dwed2451a2/images/favicon/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/dwb316f1b9/images/favicon/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/dw843afb08/images/favicon/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/dwcbb715a3/images/favicon/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/dwdf129517/images/favicon/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/dw463b6ed5/images/favicon/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/dw059a4bcb/images/favicon/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/dw09bb8dde/images/favicon/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link color="#ffffff" href="/on/demandware.static/Sites-Soriana-Site/-/default/dw28fe213a/images/favicon/safari-pinned-tab.svg" rel="mask-icon"/> 
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/dw72ae2b45/images/favicon/manifest.json" rel="manifest"/>
+  <meta content="#ffffff" name="msapplication-TileColor"/>
+  <meta content="#ffffff" name="theme-color"/>
+  <link as="font" crossorigin="" href="/on/demandware.static/Sites-Soriana-Site/-/default/dwdc438bbc/fonts/barlow/barlow-regular-webfont.woff2" type="font/woff2"/>
+  <link as="font" crossorigin="" href="/on/demandware.static/Sites-Soriana-Site/-/default/dw91fbb67a/fonts/barlow/barlow-medium-webfont.woff2" type="font/woff2"/>
+  <link as="font" crossorigin="" href="/on/demandware.static/Sites-Soriana-Site/-/default/dw2369620d/fonts/barlow/barlow-semibold-webfont.woff2" type="font/woff2"/>
+  <link as="font" crossorigin="" href="/on/demandware.static/Sites-Soriana-Site/-/default/dw4c2a9965/fonts/barlow/barlow-bold-webfont.woff2" type="font/woff2"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/css/global.css" rel="stylesheet"/>
+  <link href="https://www8.smartadserver.com" rel="preconnect"/>
+  <link href="https://www.gstatic.com" rel="preconnect"/>
+  <link href="https://ism-adserver.s3-eu-west-1.amazonaws.com/" rel="preconnect"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/css/experience/experienceGlobal.css" rel="stylesheet"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/css/experience/components/sr_custom_layouts/experienceCarousels.css" rel="stylesheet"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/css/experience/components/sr_custom_assets/contentTile.css" rel="stylesheet"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/css/experience/components/sr_custom_layouts/mobile2r2cDesktop1r4c.css" rel="stylesheet"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/css/experience/components/sr_custom_assets/categoryTile.css" rel="stylesheet"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/css/experience/components/sr_custom_layouts/mobile1r1cDesktop1r1c.css" rel="stylesheet"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/css/experience/components/sr_custom_assets/productTile.css" rel="stylesheet"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/css/components/remaster/productTileStyle.css" rel="stylesheet"/>    
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/css/experience/components/sr_custom_layouts/mobile2r1cDesktop1r2c.css" rel="stylesheet"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/css/experience/components/sr_custom_assets/contentEditorialTile.css" rel="stylesheet"/>
+  <link href="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/css/experience/components/sr_custom_assets/newsletterBanner.css" rel="stylesheet"/>
+  <meta content="sCeGHFwzvzQgWV3Gs0E6g-jUXK_NHvIEug-E8q9r1zA" name="google-site-verification"/>
+  <script async="" src="https://polyfill.io/v3/polyfill.min.js" strategy="beforeInteractive">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+window.webStaticURL = "/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/";
+window.cbtSitePreferences = {"CBT_ENABLED":true,"CBT_CLICK":true,"CBT_HOVER":true,"CBT_HOVER_DELAY":1000};
+let ipExist = false;
+if (ipExist) {
+window.ipAddress ='null';
+} else {
+window.saveIpAddress = true;
+}
+  </script>
+  <script asyn="" src="/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/js/cbt.js">
+  </script>
+  <script>
+   (function (s, y, n, di, go) {
+di = s.createElement(y);
+di.type = 'text/java'+y;
+di.async = true;
+di.src = n + Math.floor(Date.now() / 86400000);
+go = s.getElementsByTagName(y)[0];
+go.parentNode.insertBefore(di,go);
+}(document,'script', "https://content.syndigo.com/site/4e086a37-d234-4eed-bd54-02f5dbab7db5/tag.js?cv="));
+  </script>
+  <script>
+   window.KEVEL = {
+    SERVICE_URL: "https://e-11487.adzerk.net/api/v2",
+    NETWORK_ID: "11487",
+    USER_ID: "abpccWqUzZuwbdpGYi714m5BSa",
+
+    DEFAULT: {
+      MAIN: {},
+      PLACEMENT: {}
+    }
+  }
+  </script>
+  <script>
+   window.webStaticURL = "/on/demandware.static/Sites-Soriana-Site/-/default/v1709568483471/";
+// Kevel Search
+  </script>
+  <link href="https://www.soriana.com" rel="canonical"/>
+  <script type="text/javascript">
+   //<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _analytics_enabled: "true",
+    _timeZone: "America/Mexico_City",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+        capture: function() {
+                dw.ac._capture(arguments);
+                // send to CQ as well:
+                if (window.CQuotient) {
+                        window.CQuotient.trackEventsFromAC(arguments);
+                }
+        },
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+                dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+                dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    },
+    eventsIsEmpty: function() {
+        return 0 == dw.ac._events.length;
+    }
+};
+/* ]]> */
+// -->
+  </script>
+  <script type="text/javascript">
+   //<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'bgbd-Soriana';
+CQuotient.realm = 'BGBD';
+CQuotient.siteId = 'Soriana';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'default';
+CQuotient.fbPixelId = '__UNKNOWN__';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.apiHost='api.cquotient.com';
+/* Turn this on to test against Staging Einstein */
+/* CQuotient.useTest= true; */
+CQuotient.useTest = ('true' === 'false');
+CQuotient.initFromCookies = function () {
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+          var c = ca[i];
+          while (c.charAt(0)==' ') c = c.substring(1,c.length);
+          if (c.indexOf('cqcid=') == 0) {
+                CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+          } else if (c.indexOf('cquid=') == 0) {
+                  var value = c.substring('cquid='.length,c.length);
+                  if (value) {
+                        var split_value = value.split("|", 3);
+                        if (split_value.length > 0) {
+                          CQuotient.cquid=split_value[0];
+                        }
+                        if (split_value.length > 1) {
+                          CQuotient.cqeid=split_value[1];
+                        }
+                        if (split_value.length > 2) {
+                          CQuotient.cqlid=split_value[2];
+                        }
+                  }
+          }
+        }
+}
+CQuotient.getCQCookieId = function () {
+        if(window.CQuotient.cqcid == '')
+                window.CQuotient.initFromCookies();
+        return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+        if(window.CQuotient.cquid == '')
+                window.CQuotient.initFromCookies();
+        return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+        if(window.CQuotient.cqeid == '')
+                window.CQuotient.initFromCookies();
+        return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+        if(window.CQuotient.cqlid == '')
+                window.CQuotient.initFromCookies();
+        return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+        if (Object.prototype.toString.call(events) === "[object Array]") {
+                events.forEach(_trackASingleCQEvent);
+        } else {
+                CQuotient._trackASingleCQEvent(events);
+        }
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+        if (event && event.id) {
+                if (event.type === dw.ac.EV_PRD_DETAIL) {
+                        CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+                } // not handling the other dw.ac.* events currently
+        }
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+        var cq_params = {};
+        cq_params.cookieId = CQuotient.getCQCookieId();
+        cq_params.userId = CQuotient.getCQUserId();
+        cq_params.emailId = CQuotient.getCQHashedEmail();
+        cq_params.loginId = CQuotient.getCQHashedLogin();
+        cq_params.product = cqParamData.product;
+        cq_params.realm = cqParamData.realm;
+        cq_params.siteId = cqParamData.siteId;
+        cq_params.instanceType = cqParamData.instanceType;
+        cq_params.locale = CQuotient.locale;
+
+        if(CQuotient.sendActivity) {
+                CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+        } else {
+                CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+        }
+};
+/* ]]> */
+// -->
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https://schema.org","@type":"Organization","name":"Soriana","url":"https://www.soriana.com/","logo":"https://www.soriana.com/on/demandware.static/-/Library-Sites-SorianaSharedLib/default/dwd066cc03/images/footer/logo-soriana.svg","description":"Bienvenido a la tienda en línea de 
+Soriana. Conoce nuestro catálogo exclusivo en línea o pide el Súper en tu casa.","sameAs":["https://www.facebook.com/tiendasoriana","https://twitter.com/TiendaSoriana","https://www.instagram.com/soriana/","https://www.youtube.com/tiendasoriana","https://www.pinterest.com.mx/TiendaSoriana"]}     
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https://schema.org/","@type":"WebSite","url":"https://www.soriana.com/"}
+  </script>
+  <meta content="RsggQwZm
+PS C:\Users\P C\Desktop\JOHAN UNI\Scraping.1> 
