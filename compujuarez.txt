@@ -1,0 +1,266 @@
+PS C:\Users\P C\Desktop\JOHAN UNI\Scraping.1>  c:; cd 'c:\Users\P C\Desktop\JOHAN UNI\Scraping.1'; & 'c:\Users\P C\Desktop\JOHAN UNI\Scraping.1\env\Scripts\python.exe' 'c:\Users\P C\.vscode\extensions\ms-python.debugpy-2024.2.0-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '50740' '--' 'C:\Users\P C\Desktop\JOHAN UNI\Scraping.1\extraer.py'
+<!DOCTYPE html>
+<html lang="es">
+ <head>
+  <meta content="width=device-width, height=device-height, initial-scale=1.0,  maximum-scale=1" name="viewport"/>
+  <meta content="http://schema.org/NewCondition" itemprop="itemCondition"/>
+  <!-- All CSS Files -->
+  <link href="https://www.compujuarez.mx/" hreflang="x-default" rel="alternate"/>
+  <link href="https://www.compujuarez.mx?lang=es" hreflang="es-mx" rel="alternate"/>
+  <!-- Generales Basicos css -->
+  <link href="https://www.compujuarez.mx/generales/css/generales_basicos.css?ver=19.50" rel="stylesheet"/>       
+  <link href="https://www.compujuarez.mx/generales/css/accordion.min.css?ver=19.50" rel="stylesheet"/>
+  <link href="https://www.compujuarez.mx/generales/css/jquery.nice-number.min.css?ver=19.50" rel="stylesheet"/>  
+  <link href="https://www.compujuarez.mx/generales/css/jquery-ui.min.css?ver=19.50" rel="stylesheet"/>
+  <link href="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/bccc260d8f5d4ca4a73062fbfa2de834_02122021045233.jpg" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/bccc260d8f5d4ca4a73062fbfa2de834_02122021045233.jpg" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/bccc260d8f5d4ca4a73062fbfa2de834_02122021045233.jpg" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/bccc260d8f5d4ca4a73062fbfa2de834_02122021045233.jpg" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/bccc260d8f5d4ca4a73062fbfa2de834_02122021045233.jpg" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/bccc260d8f5d4ca4a73062fbfa2de834_02122021045233.jpg" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/bccc260d8f5d4ca4a73062fbfa2de834_02122021045233.jpg" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/bccc260d8f5d4ca4a73062fbfa2de834_02122021045233.jpg" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/bccc260d8f5d4ca4a73062fbfa2de834_02122021045233.jpg" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/bccc260d8f5d4ca4a73062fbfa2de834_02122021045233.jpg" rel="icon" sizes="192x192" type="image/png"/>
+  <link href="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/bccc260d8f5d4ca4a73062fbfa2de834_02122021045233.jpg" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/bccc260d8f5d4ca4a73062fbfa2de834_02122021045233.jpg" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/bccc260d8f5d4ca4a73062fbfa2de834_02122021045233.jpg" rel="icon" sizes="16x16" type="image/png"/>
+  <meta content="CompuJuárez" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <meta content="CompuJuárez" property="og:site_name"/>
+  <meta content="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/bccc260d8f5d4ca4a73062fbfa2de834_02122021045233.jpg" property="og:image"/>
+  <meta content="https://www.compujuarez.mx/" property="og:url"/>
+  <meta content="" property="og:description"/>
+  <meta content="" name="description"/>
+  <meta content="Equipo de cómputo, software, tv, cámaras,redes, energía" name="keywords"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="CompuJuárez" name="twitter:site"/>
+  <meta content="CompuJuárez" name="twitter:title"/>
+  <meta content="" name="twitter:description"/>
+  <meta content="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/18517de426c544cd82ea4a0b172f293d_02122021045233.jpg" name="twitter:image"/>
+  <meta content="https://www.compujuarez.mx/" name="twitter:url"/>
+  <link href="https://s3.us-east-1.amazonaws.com/contenido.ipos/fotos/1891/ecommerce/18517de426c544cd82ea4a0b172f293d_02122021045233.jpg" rel="shortcut icon" type="image/x-icon"/>
+  <script crossorigin="anonymous" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=615328ede05cae24c2865e36" type="text/javascript">
+  </script>
+  <!-- Ingresa aquí los css propios de la plantilla -->
+  <link href="//fonts.googleapis.com/css?family=Poppins:400,500%7CTeko:300,400,500%7CMaven+Pro:500" rel="stylesheet" type="text/css"/>
+  <link href="https://www.compujuarez.mx/flooria/css/bootstrap.css" rel="stylesheet"/>
+  <link href="https://www.compujuarez.mx/flooria/css/fonts.css" rel="stylesheet"/>
+  <link href="https://www.compujuarez.mx/flooria/css/style.css" id="main-styles-link" rel="stylesheet"/>
+  <link href="https://www.compujuarez.mx/flooria/css/estilos.css?ver=19.50" rel="stylesheet"/>
+  <style>
+   body
+         {
+             overflow-x:hidden;
+         }
+        .colection_pic {
+        width: auto;
+        height: 315px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+}
+
+.col-lg-2 {
+        padding: 5px;
+}
+
+.container {
+        width: 100% !important;
+padding-right: 15px !important;
+padding-left: 15px !important;
+margin-right: auto !important;
+margin-left: auto !important;
+max-width: unset !important;
+}
+
+.tabla_disponibles td, .tabla_disponibles th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+}
+.tabla_disponibles tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.dos_fotos_pic {
+        background-size: contain;
+}
+
+#index_13 .row.row-60 {
+        justify-content: center;
+}
+
+.rd-navbar-modern.rd-navbar-static .rd-navbar-main {
+        max-width: unset;
+}
+
+@media (min-width: 992px) {
+  .rd-navbar-static .rd-navbar-dropdown {
+        position: absolute;
+        right: unset;
+        left: unset;
+        padding: 22px 15px 34px 34px;
+        background: #ffffff;
+        z-index: 5;
+        display: grid;
+        width: 50vw;
+        gap: 25px;
+        grid-template-columns: repeat(3, 1fr);
+}
+
+.rd-navbar-static .rd-dropdown-item + .rd-dropdown-item {
+        margin-top: 0;
+}
+}
+
+@media (min-width: 1200px) {
+  .rd-navbar-modern-wrap {
+    top: 0 !important;
+  }
+  .rd-navbar-static .rd-navbar-dropdown {
+        right: 0;
+        grid-template-columns: repeat(4, 1fr);
+}
+}
+
+@media (min-width: 1800px) {
+  .rd-navbar-modern-wrap {
+    top: 0 !important;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .colection_pic {
+    background-size: 100% 100%;
+  }
+}
+  </style>
+  <style>
+   .boton_filtros {
+    background-color: #ff0000;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+}
+    .boton_filtros:hover {
+        background-color: #ff0000;
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+#amount, #amount-2 {
+    color: #ff0000 !important;
+}
+.checkout_button_small_checkout {
+    background-color: #ff0000 !important;
+    opacity: 0.9 !important;
+    filter: alpha(opacity=90) !important;
+}
+    .checkout_button_small_checkout:hover {
+        background-color: #ff0000;
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+.producto_boton {
+    background-color: #ff0000;
+}
+.add-to-cart-button, .add-to-cart-button2 {
+    background-color: #ff0000;
+}
+.newsletter_btn {
+    background-color: #ff0000;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+}
+    .newsletter_btn:hover {
+        background-color: #ff0000;
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+.cookies_btn {
+    background-color: #ff0000;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+}
+    .cookies_btn:hover {
+        background-color: #ff0000;
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+.cart-overview-big .button {
+    background-color: #ff0000;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+    border-color: #ff0000;
+}
+    .cart-overview-big .button:hover {
+        background-color: #ff0000;
+        opacity: 1;
+        border-color: #ff0000;
+        filter: alpha(opacity=100);
+    }
+.fa-search-plus {
+    color: #ff0000 !important;
+}
+
+.btn_404 {
+    background-color: #ff0000;
+    opacity: 1;
+    border-color: #ff0000;
+    filter: alpha(opacity=100);
+}
+
+.nice-number-button {
+    background-color: #ff0000;
+}
+
+/* SMF */
+
+.rd-navbar-modern.rd-navbar-static .rd-nav-link:hover {
+    color: #ff0000 !important;
+}
+
+.rd-navbar-modern.rd-navbar-static .rd-nav-link::before {
+    background: #ff0000 !important;
+}
+
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, [class*='heading-'] a:hover {
+    color: #ff0000 !important;
+}
+a:focus, a:active {
+    color: #ff0000 !important;
+}
+
+    a:hover {
+        color: #ff0000 !important;
+    }
+
+.link-hover {
+    color: #ff0000 !important;
+}
+
+.link-press {
+    color: #ff0000 !important;
+}
+
+.rd-navbar-basket:hover {
+    color: #ff0000 !important;
+}
+
+.rd-navbar-basket:hover {
+    color: #ff0000 !important;
+}
+.rd-navbar-static .rd-navbar-search-toggle:hover {
+    color: #ff0000 !important;
+}
+
+.rd-navbar-basket span {
+    color: #ff0000 !important;
+}
+
+.project-hamburger-2 > span::after {
+    background: #ff0000 !important;
+}
+
+.cssload-container span {
+
+PS C:\Users\P C\Desktop\JOHAN UNI\Scraping.1> 
